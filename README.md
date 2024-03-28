@@ -1,3 +1,14 @@
+Deprecation Notice
+==================
+
+This repository is schedule for deprecation.  Please see:
+
+https://github.com/openedx/edx-app-android/issues/1830
+
+This application is being replaced by:
+
+https://github.com/openedx/openedx-app-android
+
 # edX Android
 
 [<img align="right" alt="Get it on Google Play" height="128" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/details?id=org.edx.mobile)
